@@ -17,8 +17,8 @@ spadnie na ziemię, gra się kończy.
 ###Platforma docelowa:
 Gra będzie działała na systemie WINDOWS oraz LINUX.
 ###Funkcjonalność produktu:
-+I.Program przeznaczony jest dla 1 użytkownika.
-+II.Program wyświetla i aktualizuje na bieżąco punkty.
+#+I.Program przeznaczony jest dla 1 użytkownika.
+#+II.Program wyświetla i aktualizuje na bieżąco punkty.
 III.Program działa na 1 poziomie. (Jeżli gra zostanie stworzona przeze mnie
     przed czasem to rozbuduję grę na 5 poziomów i poziom trudności będzie wzrastał
     wraz z ilościa zdobytych punktów).
